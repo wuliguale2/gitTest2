@@ -1,2 +1,2 @@
-as upstream
+for upstream pull
 
