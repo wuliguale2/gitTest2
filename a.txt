@@ -1,2 +1,2 @@
-before amend
+after local and remote conflict
 
