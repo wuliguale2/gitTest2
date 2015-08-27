@@ -1,2 +1,2 @@
-after local and remote conflict
+as upstream
 
