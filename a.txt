@@ -1,2 +1,2 @@
-pull request conflict 3
+resove pull request conflict
 
