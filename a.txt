@@ -1,2 +1,2 @@
-this will lead to a conflict
+before conflict
 
